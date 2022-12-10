@@ -20,7 +20,7 @@ All of the data and resources used in this project I uploaded onto Github. I hav
 
 # Results:
 			Rollo	Tigger	Coco	Lola	Chewbacca	Zoe	Claire	Blanche	Callie	Average birth year of Dogs	Median birthyear	Mode birthyear	Minimum birth year
-          24	129	  3775	3517	    176	  1062	50	      40	  338	             2013.206304	            2014	          2015	            1991
+			24	129	  3775	3517	    176	  1062	50	      40	  338	             2013.206304	            2014	          2015	            1991
           
           male dogs     	female dogs	      total dogs	
              277014	          231182	          508196													
