@@ -1,33 +1,18 @@
 
 <!DOCTYPE html>
     <html>
-        <h1> Data Analysis of NYC Dog Licensures
+        <h1> Final for CS 1030
 
         </h1>
         <h2>
-            Process: 
+            Including data Analysis of NYC Dog Licensures and summary of Khan Academy Unit 5.
         </h2>
-        
-        <h5> 
-        
-        I chose data for that related to dogs. I saw this data set about dog names and knew it was the one. The data is also available as a CSV file, so I knew it was the data I wanted to use. I downloaded the file as an excel spreadsheet so I could interact with the information. My main questions about the dogs were about their names and their birthdays. 
-My Hypothesis:
-What is the ratio of male dogs to female dogs?
-How many dogs are named Tigger, Coco, Lola, Chewbacca, Zoe, Claire, Blanche, and Callie?
-What is the average birth year of all the dogs?
-What is the birth year of the oldest dog?
-I was curious about the occurrences of those specific names, so I checked to see how many occurrences of each name there were. I did this by checking the data containing the dogs’ names, a total of 508196 names, and checking every time that name was found. The names I checked for were Tigger, Coco, Lola, Chewbacca, Zoe, Claire, Blanche, and Callie. I also wanted to know what the ratio of female to male dogs was. The sex of the dog in the spreadsheet is represented by M for male or F for female. I created a new column that showed a 1 whenever there was a M in the row. The sum of the created column showed the total number of males. The total number of dogs minus the number of males revealed the total number of females. I wanted to know the average birthyear of the dogs. I did that by finding the sum of the birth years for all the dogs and then dividing by the total number of dogs. I also wanted to know the oldest dog’s age. I did this by finding the minimum datum in the row of dog birth dates. Most of the Excel formulas I already knew, but the ones I did not know how to do I researched. 
-All of the data and resources used in this project I uploaded onto Github. I have had previous experience with Github so the creation of a new repository was not hard. I created a new repository and created a README as well as multiple files organized into understandable structure. 
-
-
-        </h5>
-
         
         <h3> I am a CS major that loves axolotls and values security of information. 
             <h3>
             
 
-        <title> I love axolotls! They are the absolute best and they are so cute. 
+        <title> Links to submission requierments
 
         </title>
 
@@ -36,6 +21,6 @@ All of the data and resources used in this project I uploaded onto Github. I hav
         
         <a href="https://github.com/babybeans/babybeans.github.io/blob/main/CS1030FinalProject.docx"> Khan Academy Unit 5 Summary</a>
         
-        <a href="https://github.com/babybeans/babybeans.github.io/blob/main/references.md"> References</a>
+        <a href="https://github.com/babybeans/babybeans.github.io/blob/main/DataAnalysis.txt"> Data Analysis of NYC Licensed Dogs </a>
 
     </html>
