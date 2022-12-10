@@ -19,10 +19,10 @@ I was curious about the occurrences of those specific names, so I checked to see
 All of the data and resources used in this project I uploaded onto Github. I have had previous experience with Github so the creation of a new repository was not hard. I created a new repository and created a Github website as well as multiple files organized into understandable structure. 
 
 # Results:
-			Rollo	Tigger	Coco	Lola	Chewbacca	Zoe	Claire	Blanche	Callie	Average birth year of Dogs	Median birthyear	Mode birthyear	Minimum birth year
-			24	129	  3775	3517	    176	  1062	50	      40	  338	             2013.206304	            2014	          2015	            1991
+		Dog Names:			Rollo	Tigger	Coco	Lola	Chewbacca	Zoe	Claire	Blanche	Callie	Average birth year of Dogs	Median birthyear	Mode birthyear	Minimum birth year
+		Number of Dogs with Names:	24	129	  3775	3517	    176	  1062	50	      40	  338	             2013.206304	            2014	          2015	            1991
           
-          male dogs     	female dogs	      total dogs	
-             277014	          231182	          508196													
+         Sex of Dog: 	male     	female	      total dogs	
+             		277014	          231182	508196													
 											
 
