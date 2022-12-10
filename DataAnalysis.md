@@ -31,7 +31,7 @@ All of the data and resources used in this project I uploaded onto Github. I hav
 	 
 	 
 	 
-	Sex of Dog:	 	male     	female	      total dogs	
+		Sex of Dog:	 	male     	female	      total dogs	
         Number of Dogs:		277014	        231182		508196													
 											
 
