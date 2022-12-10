@@ -32,6 +32,10 @@ All of the data and resources used in this project I uploaded onto Github. I hav
         </title>
 
             
-        <a href="https://fantaxies.com/"> Visit a webpage to by them today!</a>
+        <a href="https://github.com/babybeans/babybeans.github.io/blob/main/references.md"> References</a>
+        
+        <a href="https://github.com/babybeans/babybeans.github.io/blob/main/CS1030FinalProject.docx"> Khan Academy Unit 5 Summary</a>
+        
+        <a href="https://github.com/babybeans/babybeans.github.io/blob/main/references.md"> References</a>
 
     </html>
